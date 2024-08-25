@@ -51,4 +51,4 @@ A simple parking garage simulation created with Java.
 
 ---
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Barnabas-Sz.visitor-badge)
+![Visitor Count](https://komarev.com/ghpvc/?username=Barnabas-Sz&color=blue)
