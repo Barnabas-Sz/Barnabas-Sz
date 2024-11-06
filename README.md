@@ -20,8 +20,8 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on a **[Parking Garage Simulation](https://github.com/Barnabas-Sz/ParkingGarage-Simulation)** & **Online Store**
-- 🌱 I’m learning how to create an online shop and improving my skills with Java / OOP. 
+- 🔭 I’m currently working on an **Online Store**
+- 🌱 I’m learning how to create an online shop and improving my skills with Java / CS / OOP in general. 
 - 🌍 I'm fluent in 3 languages: English, German, and Hungarian, and I’m learning another (French).
 - ⚡ Besides programming, I love doing sports (🥊 Muay Thai and 🏀 Basketball) and listening to music.
 
