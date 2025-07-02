@@ -20,8 +20,8 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on an **Online Store**
-- 🌱 I’m learning how to create an online shop and improving my skills with Java / CS / OOP in general. 
+- 🔭 I’m currently working on a **Portfolio Optimizer**
+- 🌱 I’m learning how to create a stock-portfolio optimizer using yfinance, pandas and other interesting tools.  
 - 🌍 I'm fluent in 3 languages: English, German, and Hungarian, and I’m learning another (French).
 - ⚡ Besides programming, I love doing sports (🥊 Muay Thai and 🏀 Basketball) and listening to music.
 
