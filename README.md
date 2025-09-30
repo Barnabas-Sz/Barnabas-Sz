@@ -1,4 +1,4 @@
-# Hello!👋 I'm Barnabas Szelenyi
+# Hello!👋 I'm Barnabas 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=000000&width=435&lines=Welcome+to+my+GitHub+Profile!;I+love+coding+and+creating.;Always+learning+something+new!)](https://git.io/typing-svg)
 
@@ -22,9 +22,6 @@
 
 - 🔭 I’m currently working on a **Portfolio Optimizer**
 - 🌱 I’m learning how to create a stock-portfolio optimizer using yfinance, pandas and other interesting tools.  
-- 🌍 I'm fluent in 3 languages: English, German, and Hungarian, and I’m learning another (French).
-- ⚡ Besides programming, I love doing sports (🥊 Muay Thai and 🏀 Basketball) and listening to music.
-
 ---
 
 ## 📈 GitHub Stats
