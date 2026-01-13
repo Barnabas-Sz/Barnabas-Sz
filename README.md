@@ -30,8 +30,8 @@ I'm a developer who enjoys building practical tools and learning how real-world 
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Barnabas-Sz&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Barnabas-Sz&layout=compact&theme=radical&hide_border=true)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Barnabas-Sz&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Barnabas-Sz&layout=compact&theme=radical&hide_border=true)
 
 ---
 
